@@ -1,6 +1,6 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;This+is+Alina...;Web3+Expert;Node+Validator;Business+Manager&center=true&size=30">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;This+is+Alina...;Web3+Expert;Node+Validator;Business+Manager&center=true&size=30&color=FFC0CB">
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/megamozg2022/megamozg2022/blob/main/1ea3c20d.gif?raw=true" width="500" height="320" />
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
