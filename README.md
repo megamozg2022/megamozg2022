@@ -2,37 +2,25 @@
 
 <img align="right" alt="GIF" src="https://github.com/megamozg2022/megamozg2022/blob/main/1ea3c20d.gif?raw=true" width="500" height="320" />
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+<h2 align="left">👧 About Me:</h2>
 
-- 🎓 I am Final Year Student at VIT BHOPAL
-
-- 🎮 I'm majoring in Game Development
-
-- ⚛️ I build mobile apps using Flutter and web apps using HTML, CSS, JS, BOOTSTRAP, REACT, NODE & EXPRESS.
-
+- 🎓 I have a Master’s degree in Mathematics and IT spheres. I have
+completed thousands of varied tasks and I have an immense skill 
+set. 
 - 🚀 I like to explore new and innovative things and then try to import those learnings in my work such that it can be easily used by the whole community.
 
-- ❤️ I love to write reviews on various software related products, new technologies, cloud services etc.
+- ❤️ I love to investigate new technologies, cloud services etc.
 
-- 🥅 2023 Goals: Explore and learn how real world software works with new tech stacks.
+- 🥅 2023 Goals: Develope my own Dapp.
 
-- 📌 Tech Stack I am familiar with :-
+- 📌 Tech Stack I am familiar with:
 
-- 🎯 Programming Languages :- C, C++, Java
+- 🎯 Programming Languages : Python, Java, Solidity
 
-- 🎯 Problem Solving :- Data Structures & Algorithms through C++
+- 🎯 Problem Solving : Data Structures & Algorithms & Financial Analysis
 
-- 💻 Web Development Bucket :-
+- 💻 Web Development: HTML5, CSS3, Javascript, Bootstrap4 and React.js, Node.js
 
-- 💥 Front End :- HTML5, CSS3, Javascript, Bootstrap4 and React.js
-
-- 💥 Back End :- Node.js, Express.js
-
-- 📱 App Development Stack :-
-
-- 💥 Front End :- Flutter
-
-- 💥 AR :- Importing AR using ARCore package of Flutter
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
