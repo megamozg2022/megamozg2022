@@ -13,7 +13,7 @@ set.
 
 ❤️ I love to investigate new technologies, cloud services etc.
 
-🥅 2023 Goals: Develope my own Dapp.
+🥅 2023 Goals: Develop my own dApp.
 
 📌 Tech Stack I am familiar with:
 
