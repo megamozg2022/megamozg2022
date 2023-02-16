@@ -59,7 +59,17 @@ We are experts in bringing insightful figures from data with an experience that 
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/megamozg2022/Python" title="Python">
-   <style     .line-lg{
+   <style>
+       rectangle{
+        padding-top: 40px;
+  width:100px;
+  height:100px;
+  border:1px solid #000; 
+  position: relative;
+  text-align: center;
+       }
+   </style>
+      <style classline-lg{
    width:120%; 
    text-align: center; 
    border-bottom: 2px solid #000; 
@@ -70,13 +80,7 @@ We are experts in bringing insightful figures from data with an experience that 
   background:#4e5d6c; 
     padding:0 10px; 
 }
-.rectangle{
-padding-top: 40px;
-  width:100px;
-  height:100px;
-  border:1px solid #000; 
-  position: relative;
-  text-align: center;
+.
 }>
       <table class="table">
    <tr>
