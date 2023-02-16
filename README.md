@@ -2,7 +2,7 @@
 
 
 
-<h2 align="left" style="color: #E37193;">👧 About Me:</h2>
+<h2 align="left">👧 About Me:</h2>
 <img align="right" alt="GIF" src="https://github.com/megamozg2022/megamozg2022/blob/main/1ea3c20d.gif?raw=true" width="500" height="320" />
 
 🎓 I have a Master’s degree in Mathematics and IT spheres. I have
@@ -60,12 +60,12 @@ We are experts in bringing insightful figures from data with an experience that 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/megamozg2022/Python" title="Python">
   <img align="left" height="125" src="https://github.com/megamozg2022/megamozg2022/blob/main/python.png"></a>
-  <a align="right" href="https://github.com/megamozg2022/Nodes" title="Nodes"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=Movie-Streaming-Website&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/megamozg2022/Nodes" title="Nodes"><img align="right" height="125" src="https://github.com/megamozg2022/megamozg2022/blob/main/nodes.png"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/megamozg2022/PowerBI" title="PowerBI"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=CS-Hut&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/megamozg2022/HTML" title="HTML"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=Musicophilia&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/megamozg2022/PowerBI" title="PowerBI"><img align="left" height="125" src="https://github.com/megamozg2022/megamozg2022/blob/main/powerbi.png"></a>
+  <a align="right" href="https://github.com/megamozg2022/HTML" title="HTML"><img align="right" height="125" src="https://github.com/megamozg2022/megamozg2022/blob/main/html.png"></a>
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
