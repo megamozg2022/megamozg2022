@@ -59,7 +59,7 @@ We are experts in bringing insightful figures from data with an experience that 
 <br>
 <div width="100%" align="center">
     <style>
-	<svg {border: 1px solid grey; border-radius: 15px;}
+	svg {border: 1px solid grey; border-radius: 15px;}
 </style>
 <svg height="180" width=400">
 	<rect x="80" y="40' width="200" height="100" fill="pink"/>
