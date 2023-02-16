@@ -59,6 +59,45 @@ We are experts in bringing insightful figures from data with an experience that 
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/megamozg2022/Python" title="Python">
+   <style     .line-lg{
+   width:120%; 
+   text-align: center; 
+   border-bottom: 2px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 20px; 
+}
+.line-lg span{
+  background:#4e5d6c; 
+    padding:0 10px; 
+}
+.rectangle{
+padding-top: 40px;
+  width:100px;
+  height:100px;
+  border:1px solid #000; 
+  position: relative;
+  text-align: center;
+}>
+      <table class="table">
+   <tr>
+      <td>
+         <div class="rectangle">
+            <h4 class="line-lg"><span>Lol</span></h4>
+         </div>
+      </td>
+      <td>
+         <div class="rectangle">
+            <h4 class="line"><span>Lol</span></h4>
+         </div>
+      </td>
+      <td>
+         <div class="rectangle"></div>
+         <h4 class="line"><span>Lol</span></h4>
+         </div>
+      </td>
+   </tr>
+</table>
+      
   <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=DocLense&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/ROHAN842/Movie-Streaming-Website" title="Movie-Streaming-Website"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=Movie-Streaming-Website&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
