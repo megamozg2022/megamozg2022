@@ -58,6 +58,13 @@ We are experts in bringing insightful figures from data with an experience that 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
+    <style>
+	<svg {border: 1px solid grey; border-radius: 15px;}
+</style>
+<svg height="180" width=400">
+	<rect x="80" y="40' width="200" height="100" fill="pink"/>
+	<text x="140" y="100' fill="white" font-weight="bold">Python></text>
+</svg>
   <a align="left" href="https://github.com/megamozg2022/Python" title="Python">
   <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=DocLense&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/megamozg2022/Nodes" title="Nodes"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=Movie-Streaming-Website&theme=react&border_color=61dafb&border_radius=10"></a>
