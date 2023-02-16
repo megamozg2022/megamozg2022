@@ -59,7 +59,7 @@ We are experts in bringing insightful figures from data with an experience that 
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/megamozg2022/Python" title="Python">
-  svg height="115" width="300">
+  <svg height="115" width="300">
       <rect x="20" y="20" width="300" height="100" />
       <text x="70" y="70" fill="gold" font-weight="bold">Python</text>
     </svg>
