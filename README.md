@@ -59,7 +59,7 @@ We are experts in bringing insightful figures from data with an experience that 
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/megamozg2022/Python" title="Python">
-  <img align="left" height="150" src="https://github.com/megamozg2022/megamozg2022/blob/main/python.png"></a>
+  <img align="left" height="125" src="https://github.com/megamozg2022/megamozg2022/blob/main/python.png"></a>
   <a align="right" href="https://github.com/megamozg2022/Nodes" title="Nodes"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ROHAN842&repo=Movie-Streaming-Website&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
