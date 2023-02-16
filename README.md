@@ -43,14 +43,15 @@ We are experts in bringing insightful figures from data with an experience that 
 <img src="https://github.com/megamozg2022/megamozg2022/blob/main/javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="https://github.com/megamozg2022/megamozg2022/blob/main/jquery.svg" alt="jquery" width="40" height="40"/>
 <img src="https://github.com/megamozg2022/megamozg2022/blob/main/json.svg" alt="json" width="40" height="40"/>
+<img src="https://github.com/megamozg2022/megamozg2022/blob/main/2.svg" alt="sqlite" width="40" height="40"/>
 <img src="https://github.com/megamozg2022/megamozg2022/blob/main/nodejs.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://github.com/megamozg2022/megamozg2022/blob/main/npm.svg" alt="npm" width="40" height="40"/>
 <img src="https://github.com/megamozg2022/megamozg2022/blob/main/problemSolving.png" alt="problemSolving" width="40" height="40"/>
+<img src="https://github.com/megamozg2022/megamozg2022/blob/main/1.svg" alt="mysql" width="40" height="40"/>
 <img src="https://github.com/megamozg2022/megamozg2022/blob/main/5.svg" alt="chrome" width="40" height="40"/>
 <img src="https://github.com/megamozg2022/megamozg2022/blob/main/4.svg" alt="java" width="40" height="40"/>
 <img src="https://github.com/megamozg2022/megamozg2022/blob/main/3.svg" alt="android" width="40" height="40"/>
-<img src="https://github.com/megamozg2022/megamozg2022/blob/main/2.svg" alt="sqlite" width="40" height="40"/>
-<img src="https://github.com/megamozg2022/megamozg2022/blob/main/1.svg" alt="mysql" width="40" height="40"/>
+
     
 <hr>
 
