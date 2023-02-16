@@ -62,7 +62,7 @@ We are experts in bringing insightful figures from data with an experience that 
   <img align="left" height="125" src="https://github.com/megamozg2022/megamozg2022/blob/main/python.png"></a>
   <a align="right" href="https://github.com/megamozg2022/Nodes" title="Nodes"><img align="right" height="125" src="https://github.com/megamozg2022/megamozg2022/blob/main/nodes.png"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/megamozg2022/PowerBI" title="PowerBI"><img align="left" height="125" src="https://github.com/megamozg2022/megamozg2022/blob/main/powerbi.png"></a>
   <a align="right" href="https://github.com/megamozg2022/HTML" title="HTML"><img align="right" height="125" src="https://github.com/megamozg2022/megamozg2022/blob/main/html.png"></a>
