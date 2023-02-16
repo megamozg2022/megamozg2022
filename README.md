@@ -2,7 +2,7 @@
 
 
 
-<h2 align="left">👧 About Me:</h2>
+<h2 align="left" style="color: #E37193;">👧 About Me:</h2>
 <img align="right" alt="GIF" src="https://github.com/megamozg2022/megamozg2022/blob/main/1ea3c20d.gif?raw=true" width="500" height="320" />
 
 🎓 I have a Master’s degree in Mathematics and IT spheres. I have
